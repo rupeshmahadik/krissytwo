@@ -1,0 +1,37 @@
+/* App.css */
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #ffe6f2;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 20px;
+  margin-top: 50px;
+}
+
+h1,
+h2 {
+  color: #ff4081;
+}
+
+button {
+  background-color: #ff4081;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: #e60073;
+}
+
+img {
+  height: 300px;
+}
